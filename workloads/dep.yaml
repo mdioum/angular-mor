@@ -28,7 +28,7 @@ spec:
         app: cloud-k8s
     spec:
       containers:
-      - image: mordioum/angular-flux:1.0.2
+      - image: mordioum/angular-flux:1.0.5
         imagePullPolicy: Always
         name: cloud-k8s
         ports:
